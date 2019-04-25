@@ -1,0 +1,7 @@
+C:\Users\User\Documents\GitHub\C-Advance-2019-04-23\_20190425Pirmauzduotis\_20190425Pirmauzduotis\bin\Debug\_20190425Pirmauzduotis.exe.config
+C:\Users\User\Documents\GitHub\C-Advance-2019-04-23\_20190425Pirmauzduotis\_20190425Pirmauzduotis\bin\Debug\_20190425Pirmauzduotis.exe
+C:\Users\User\Documents\GitHub\C-Advance-2019-04-23\_20190425Pirmauzduotis\_20190425Pirmauzduotis\bin\Debug\_20190425Pirmauzduotis.pdb
+C:\Users\User\Documents\GitHub\C-Advance-2019-04-23\_20190425Pirmauzduotis\_20190425Pirmauzduotis\obj\Debug\_20190425Pirmauzduotis.csprojAssemblyReference.cache
+C:\Users\User\Documents\GitHub\C-Advance-2019-04-23\_20190425Pirmauzduotis\_20190425Pirmauzduotis\obj\Debug\_20190425Pirmauzduotis.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\C-Advance-2019-04-23\_20190425Pirmauzduotis\_20190425Pirmauzduotis\obj\Debug\_20190425Pirmauzduotis.exe
+C:\Users\User\Documents\GitHub\C-Advance-2019-04-23\_20190425Pirmauzduotis\_20190425Pirmauzduotis\obj\Debug\_20190425Pirmauzduotis.pdb
