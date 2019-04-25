@@ -1,0 +1,6 @@
+C:\Users\User\Documents\GitHub\C-Advance-2019-04-23\AntraUzduotis\AntraUzduotis\bin\Debug\AntraUzduotis.exe.config
+C:\Users\User\Documents\GitHub\C-Advance-2019-04-23\AntraUzduotis\AntraUzduotis\bin\Debug\AntraUzduotis.exe
+C:\Users\User\Documents\GitHub\C-Advance-2019-04-23\AntraUzduotis\AntraUzduotis\bin\Debug\AntraUzduotis.pdb
+C:\Users\User\Documents\GitHub\C-Advance-2019-04-23\AntraUzduotis\AntraUzduotis\obj\Debug\AntraUzduotis.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\C-Advance-2019-04-23\AntraUzduotis\AntraUzduotis\obj\Debug\AntraUzduotis.exe
+C:\Users\User\Documents\GitHub\C-Advance-2019-04-23\AntraUzduotis\AntraUzduotis\obj\Debug\AntraUzduotis.pdb

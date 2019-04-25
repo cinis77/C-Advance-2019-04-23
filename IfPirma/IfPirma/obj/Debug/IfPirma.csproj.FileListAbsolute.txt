@@ -1,0 +1,6 @@
+C:\Users\User\Documents\GitHub\C-Advance-2019-04-23\IfPirma\IfPirma\bin\Debug\IfPirma.exe.config
+C:\Users\User\Documents\GitHub\C-Advance-2019-04-23\IfPirma\IfPirma\bin\Debug\IfPirma.exe
+C:\Users\User\Documents\GitHub\C-Advance-2019-04-23\IfPirma\IfPirma\bin\Debug\IfPirma.pdb
+C:\Users\User\Documents\GitHub\C-Advance-2019-04-23\IfPirma\IfPirma\obj\Debug\IfPirma.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\C-Advance-2019-04-23\IfPirma\IfPirma\obj\Debug\IfPirma.exe
+C:\Users\User\Documents\GitHub\C-Advance-2019-04-23\IfPirma\IfPirma\obj\Debug\IfPirma.pdb
