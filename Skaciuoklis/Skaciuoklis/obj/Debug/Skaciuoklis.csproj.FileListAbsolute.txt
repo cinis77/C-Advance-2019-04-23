@@ -1,0 +1,7 @@
+C:\Users\User\Documents\GitHub\C-Advance-2019-04-23\Skaciuoklis\Skaciuoklis\bin\Debug\Skaciuoklis.exe.config
+C:\Users\User\Documents\GitHub\C-Advance-2019-04-23\Skaciuoklis\Skaciuoklis\bin\Debug\Skaciuoklis.exe
+C:\Users\User\Documents\GitHub\C-Advance-2019-04-23\Skaciuoklis\Skaciuoklis\bin\Debug\Skaciuoklis.pdb
+C:\Users\User\Documents\GitHub\C-Advance-2019-04-23\Skaciuoklis\Skaciuoklis\obj\Debug\Skaciuoklis.csprojAssemblyReference.cache
+C:\Users\User\Documents\GitHub\C-Advance-2019-04-23\Skaciuoklis\Skaciuoklis\obj\Debug\Skaciuoklis.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\C-Advance-2019-04-23\Skaciuoklis\Skaciuoklis\obj\Debug\Skaciuoklis.exe
+C:\Users\User\Documents\GitHub\C-Advance-2019-04-23\Skaciuoklis\Skaciuoklis\obj\Debug\Skaciuoklis.pdb
