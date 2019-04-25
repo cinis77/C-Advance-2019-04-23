@@ -1,0 +1,6 @@
+C:\Users\User\Documents\GitHub\C-Advance-2019-04-23\IfSKaiciavimoMasinele\IfSKaiciavimoMasinele\bin\Debug\IfSKaiciavimoMasinele.exe.config
+C:\Users\User\Documents\GitHub\C-Advance-2019-04-23\IfSKaiciavimoMasinele\IfSKaiciavimoMasinele\bin\Debug\IfSKaiciavimoMasinele.exe
+C:\Users\User\Documents\GitHub\C-Advance-2019-04-23\IfSKaiciavimoMasinele\IfSKaiciavimoMasinele\bin\Debug\IfSKaiciavimoMasinele.pdb
+C:\Users\User\Documents\GitHub\C-Advance-2019-04-23\IfSKaiciavimoMasinele\IfSKaiciavimoMasinele\obj\Debug\IfSKaiciavimoMasinele.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\C-Advance-2019-04-23\IfSKaiciavimoMasinele\IfSKaiciavimoMasinele\obj\Debug\IfSKaiciavimoMasinele.exe
+C:\Users\User\Documents\GitHub\C-Advance-2019-04-23\IfSKaiciavimoMasinele\IfSKaiciavimoMasinele\obj\Debug\IfSKaiciavimoMasinele.pdb
