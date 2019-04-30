@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.202
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Trikampiai", "Trikampiai\Trikampiai.csproj", "{18CADC75-D29A-4440-B770-A65F6CF64175}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{18CADC75-D29A-4440-B770-A65F6CF64175}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18CADC75-D29A-4440-B770-A65F6CF64175}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18CADC75-D29A-4440-B770-A65F6CF64175}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18CADC75-D29A-4440-B770-A65F6CF64175}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5F305992-2BE7-4444-B9F6-0D4458F56C62}
+	EndGlobalSection
+EndGlobal
