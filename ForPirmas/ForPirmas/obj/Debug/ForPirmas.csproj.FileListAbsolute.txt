@@ -1,0 +1,7 @@
+C:\Users\User\Documents\GitHub\C-Advance-2019-04-23\ForPirmas\ForPirmas\bin\Debug\ForPirmas.exe.config
+C:\Users\User\Documents\GitHub\C-Advance-2019-04-23\ForPirmas\ForPirmas\bin\Debug\ForPirmas.exe
+C:\Users\User\Documents\GitHub\C-Advance-2019-04-23\ForPirmas\ForPirmas\bin\Debug\ForPirmas.pdb
+C:\Users\User\Documents\GitHub\C-Advance-2019-04-23\ForPirmas\ForPirmas\obj\Debug\ForPirmas.csprojAssemblyReference.cache
+C:\Users\User\Documents\GitHub\C-Advance-2019-04-23\ForPirmas\ForPirmas\obj\Debug\ForPirmas.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\C-Advance-2019-04-23\ForPirmas\ForPirmas\obj\Debug\ForPirmas.exe
+C:\Users\User\Documents\GitHub\C-Advance-2019-04-23\ForPirmas\ForPirmas\obj\Debug\ForPirmas.pdb
