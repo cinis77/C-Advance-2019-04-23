@@ -1,0 +1,6 @@
+C:\Users\User\Documents\GitHub\C-Advance-2019-04-23\WhilePirmaUzduotis\WhilePirmaUzduotis\bin\Debug\WhilePirmaUzduotis.exe.config
+C:\Users\User\Documents\GitHub\C-Advance-2019-04-23\WhilePirmaUzduotis\WhilePirmaUzduotis\bin\Debug\WhilePirmaUzduotis.exe
+C:\Users\User\Documents\GitHub\C-Advance-2019-04-23\WhilePirmaUzduotis\WhilePirmaUzduotis\bin\Debug\WhilePirmaUzduotis.pdb
+C:\Users\User\Documents\GitHub\C-Advance-2019-04-23\WhilePirmaUzduotis\WhilePirmaUzduotis\obj\Debug\WhilePirmaUzduotis.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\C-Advance-2019-04-23\WhilePirmaUzduotis\WhilePirmaUzduotis\obj\Debug\WhilePirmaUzduotis.exe
+C:\Users\User\Documents\GitHub\C-Advance-2019-04-23\WhilePirmaUzduotis\WhilePirmaUzduotis\obj\Debug\WhilePirmaUzduotis.pdb

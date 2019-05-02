@@ -1,0 +1,7 @@
+C:\Users\User\Documents\GitHub\C-Advance-2019-04-23\ZaidimasWhile\ZaidimasWhile\bin\Debug\ZaidimasWhile.exe.config
+C:\Users\User\Documents\GitHub\C-Advance-2019-04-23\ZaidimasWhile\ZaidimasWhile\bin\Debug\ZaidimasWhile.exe
+C:\Users\User\Documents\GitHub\C-Advance-2019-04-23\ZaidimasWhile\ZaidimasWhile\bin\Debug\ZaidimasWhile.pdb
+C:\Users\User\Documents\GitHub\C-Advance-2019-04-23\ZaidimasWhile\ZaidimasWhile\obj\Debug\ZaidimasWhile.csprojAssemblyReference.cache
+C:\Users\User\Documents\GitHub\C-Advance-2019-04-23\ZaidimasWhile\ZaidimasWhile\obj\Debug\ZaidimasWhile.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\C-Advance-2019-04-23\ZaidimasWhile\ZaidimasWhile\obj\Debug\ZaidimasWhile.exe
+C:\Users\User\Documents\GitHub\C-Advance-2019-04-23\ZaidimasWhile\ZaidimasWhile\obj\Debug\ZaidimasWhile.pdb
