@@ -1,0 +1,7 @@
+C:\Users\User\Documents\GitHub\C-Advance-2019-04-23\Sandauga\Sandauga\bin\Debug\Sandauga.exe.config
+C:\Users\User\Documents\GitHub\C-Advance-2019-04-23\Sandauga\Sandauga\bin\Debug\Sandauga.exe
+C:\Users\User\Documents\GitHub\C-Advance-2019-04-23\Sandauga\Sandauga\bin\Debug\Sandauga.pdb
+C:\Users\User\Documents\GitHub\C-Advance-2019-04-23\Sandauga\Sandauga\obj\Debug\Sandauga.csprojAssemblyReference.cache
+C:\Users\User\Documents\GitHub\C-Advance-2019-04-23\Sandauga\Sandauga\obj\Debug\Sandauga.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\C-Advance-2019-04-23\Sandauga\Sandauga\obj\Debug\Sandauga.exe
+C:\Users\User\Documents\GitHub\C-Advance-2019-04-23\Sandauga\Sandauga\obj\Debug\Sandauga.pdb

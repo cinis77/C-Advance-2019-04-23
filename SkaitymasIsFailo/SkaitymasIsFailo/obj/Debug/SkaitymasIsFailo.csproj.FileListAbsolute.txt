@@ -1,0 +1,7 @@
+C:\Users\User\Documents\GitHub\C-Advance-2019-04-23\SkaitymasIsFailo\SkaitymasIsFailo\bin\Debug\SkaitymasIsFailo.exe.config
+C:\Users\User\Documents\GitHub\C-Advance-2019-04-23\SkaitymasIsFailo\SkaitymasIsFailo\bin\Debug\SkaitymasIsFailo.exe
+C:\Users\User\Documents\GitHub\C-Advance-2019-04-23\SkaitymasIsFailo\SkaitymasIsFailo\bin\Debug\SkaitymasIsFailo.pdb
+C:\Users\User\Documents\GitHub\C-Advance-2019-04-23\SkaitymasIsFailo\SkaitymasIsFailo\obj\Debug\SkaitymasIsFailo.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\C-Advance-2019-04-23\SkaitymasIsFailo\SkaitymasIsFailo\obj\Debug\SkaitymasIsFailo.exe
+C:\Users\User\Documents\GitHub\C-Advance-2019-04-23\SkaitymasIsFailo\SkaitymasIsFailo\obj\Debug\SkaitymasIsFailo.pdb
+C:\Users\User\Documents\GitHub\C-Advance-2019-04-23\SkaitymasIsFailo\SkaitymasIsFailo\obj\Debug\SkaitymasIsFailo.csprojAssemblyReference.cache

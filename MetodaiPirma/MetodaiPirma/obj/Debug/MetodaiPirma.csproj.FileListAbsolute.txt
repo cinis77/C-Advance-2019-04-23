@@ -1,0 +1,7 @@
+C:\Users\User\Documents\GitHub\C-Advance-2019-04-23\MetodaiPirma\MetodaiPirma\bin\Debug\MetodaiPirma.exe.config
+C:\Users\User\Documents\GitHub\C-Advance-2019-04-23\MetodaiPirma\MetodaiPirma\bin\Debug\MetodaiPirma.exe
+C:\Users\User\Documents\GitHub\C-Advance-2019-04-23\MetodaiPirma\MetodaiPirma\bin\Debug\MetodaiPirma.pdb
+C:\Users\User\Documents\GitHub\C-Advance-2019-04-23\MetodaiPirma\MetodaiPirma\obj\Debug\MetodaiPirma.csprojAssemblyReference.cache
+C:\Users\User\Documents\GitHub\C-Advance-2019-04-23\MetodaiPirma\MetodaiPirma\obj\Debug\MetodaiPirma.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\C-Advance-2019-04-23\MetodaiPirma\MetodaiPirma\obj\Debug\MetodaiPirma.exe
+C:\Users\User\Documents\GitHub\C-Advance-2019-04-23\MetodaiPirma\MetodaiPirma\obj\Debug\MetodaiPirma.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.202
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MetodaiPirma", "MetodaiPirma\MetodaiPirma.csproj", "{51A8617E-7F01-41A3-A42A-677D867A2919}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{51A8617E-7F01-41A3-A42A-677D867A2919}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51A8617E-7F01-41A3-A42A-677D867A2919}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51A8617E-7F01-41A3-A42A-677D867A2919}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51A8617E-7F01-41A3-A42A-677D867A2919}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {979946B7-DEBC-4D1A-A57F-EA9E57F44C4D}
+	EndGlobalSection
+EndGlobal

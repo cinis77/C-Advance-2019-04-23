@@ -1,0 +1,7 @@
+C:\Users\User\Documents\GitHub\C-Advance-2019-04-23\Laiptai\Laiptai\bin\Debug\Laiptai.exe.config
+C:\Users\User\Documents\GitHub\C-Advance-2019-04-23\Laiptai\Laiptai\bin\Debug\Laiptai.exe
+C:\Users\User\Documents\GitHub\C-Advance-2019-04-23\Laiptai\Laiptai\bin\Debug\Laiptai.pdb
+C:\Users\User\Documents\GitHub\C-Advance-2019-04-23\Laiptai\Laiptai\obj\Debug\Laiptai.csprojAssemblyReference.cache
+C:\Users\User\Documents\GitHub\C-Advance-2019-04-23\Laiptai\Laiptai\obj\Debug\Laiptai.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\C-Advance-2019-04-23\Laiptai\Laiptai\obj\Debug\Laiptai.exe
+C:\Users\User\Documents\GitHub\C-Advance-2019-04-23\Laiptai\Laiptai\obj\Debug\Laiptai.pdb
