@@ -1,0 +1,7 @@
+C:\Users\User\Documents\GitHub\C-Advance-2019-04-23\RomeniskiSkaiciai\RomeniskiSkaiciai\bin\Debug\RomeniskiSkaiciai.exe.config
+C:\Users\User\Documents\GitHub\C-Advance-2019-04-23\RomeniskiSkaiciai\RomeniskiSkaiciai\bin\Debug\RomeniskiSkaiciai.exe
+C:\Users\User\Documents\GitHub\C-Advance-2019-04-23\RomeniskiSkaiciai\RomeniskiSkaiciai\bin\Debug\RomeniskiSkaiciai.pdb
+C:\Users\User\Documents\GitHub\C-Advance-2019-04-23\RomeniskiSkaiciai\RomeniskiSkaiciai\obj\Debug\RomeniskiSkaiciai.csprojAssemblyReference.cache
+C:\Users\User\Documents\GitHub\C-Advance-2019-04-23\RomeniskiSkaiciai\RomeniskiSkaiciai\obj\Debug\RomeniskiSkaiciai.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\C-Advance-2019-04-23\RomeniskiSkaiciai\RomeniskiSkaiciai\obj\Debug\RomeniskiSkaiciai.exe
+C:\Users\User\Documents\GitHub\C-Advance-2019-04-23\RomeniskiSkaiciai\RomeniskiSkaiciai\obj\Debug\RomeniskiSkaiciai.pdb
