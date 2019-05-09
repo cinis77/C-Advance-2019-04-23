@@ -1,0 +1,7 @@
+C:\Users\User\Documents\GitHub\C-Advance-2019-04-23\TvarkingiSkaciai\TvarkingiSkaciai\bin\Debug\TvarkingiSkaciai.exe.config
+C:\Users\User\Documents\GitHub\C-Advance-2019-04-23\TvarkingiSkaciai\TvarkingiSkaciai\bin\Debug\TvarkingiSkaciai.exe
+C:\Users\User\Documents\GitHub\C-Advance-2019-04-23\TvarkingiSkaciai\TvarkingiSkaciai\bin\Debug\TvarkingiSkaciai.pdb
+C:\Users\User\Documents\GitHub\C-Advance-2019-04-23\TvarkingiSkaciai\TvarkingiSkaciai\obj\Debug\TvarkingiSkaciai.csprojAssemblyReference.cache
+C:\Users\User\Documents\GitHub\C-Advance-2019-04-23\TvarkingiSkaciai\TvarkingiSkaciai\obj\Debug\TvarkingiSkaciai.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\C-Advance-2019-04-23\TvarkingiSkaciai\TvarkingiSkaciai\obj\Debug\TvarkingiSkaciai.exe
+C:\Users\User\Documents\GitHub\C-Advance-2019-04-23\TvarkingiSkaciai\TvarkingiSkaciai\obj\Debug\TvarkingiSkaciai.pdb

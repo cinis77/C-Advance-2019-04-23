@@ -1,0 +1,7 @@
+C:\Users\User\Documents\GitHub\C-Advance-2019-04-23\MasyvasPirma\MasyvasPirma\bin\Debug\MasyvasPirma.exe.config
+C:\Users\User\Documents\GitHub\C-Advance-2019-04-23\MasyvasPirma\MasyvasPirma\bin\Debug\MasyvasPirma.exe
+C:\Users\User\Documents\GitHub\C-Advance-2019-04-23\MasyvasPirma\MasyvasPirma\bin\Debug\MasyvasPirma.pdb
+C:\Users\User\Documents\GitHub\C-Advance-2019-04-23\MasyvasPirma\MasyvasPirma\obj\Debug\MasyvasPirma.csprojAssemblyReference.cache
+C:\Users\User\Documents\GitHub\C-Advance-2019-04-23\MasyvasPirma\MasyvasPirma\obj\Debug\MasyvasPirma.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\C-Advance-2019-04-23\MasyvasPirma\MasyvasPirma\obj\Debug\MasyvasPirma.exe
+C:\Users\User\Documents\GitHub\C-Advance-2019-04-23\MasyvasPirma\MasyvasPirma\obj\Debug\MasyvasPirma.pdb
