@@ -1,0 +1,7 @@
+C:\Users\User\Documents\GitHub\C-Advance-2019-04-23\MasyvasIrFibonatis\MasyvasIrFibonatis\bin\Debug\MasyvasIrFibonatis.exe.config
+C:\Users\User\Documents\GitHub\C-Advance-2019-04-23\MasyvasIrFibonatis\MasyvasIrFibonatis\bin\Debug\MasyvasIrFibonatis.exe
+C:\Users\User\Documents\GitHub\C-Advance-2019-04-23\MasyvasIrFibonatis\MasyvasIrFibonatis\bin\Debug\MasyvasIrFibonatis.pdb
+C:\Users\User\Documents\GitHub\C-Advance-2019-04-23\MasyvasIrFibonatis\MasyvasIrFibonatis\obj\Debug\MasyvasIrFibonatis.csprojAssemblyReference.cache
+C:\Users\User\Documents\GitHub\C-Advance-2019-04-23\MasyvasIrFibonatis\MasyvasIrFibonatis\obj\Debug\MasyvasIrFibonatis.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\C-Advance-2019-04-23\MasyvasIrFibonatis\MasyvasIrFibonatis\obj\Debug\MasyvasIrFibonatis.exe
+C:\Users\User\Documents\GitHub\C-Advance-2019-04-23\MasyvasIrFibonatis\MasyvasIrFibonatis\obj\Debug\MasyvasIrFibonatis.pdb

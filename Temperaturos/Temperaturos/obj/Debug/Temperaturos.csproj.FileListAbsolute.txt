@@ -1,0 +1,7 @@
+C:\Users\User\Documents\GitHub\C-Advance-2019-04-23\Temperaturos\Temperaturos\bin\Debug\Temperaturos.exe.config
+C:\Users\User\Documents\GitHub\C-Advance-2019-04-23\Temperaturos\Temperaturos\bin\Debug\Temperaturos.exe
+C:\Users\User\Documents\GitHub\C-Advance-2019-04-23\Temperaturos\Temperaturos\bin\Debug\Temperaturos.pdb
+C:\Users\User\Documents\GitHub\C-Advance-2019-04-23\Temperaturos\Temperaturos\obj\Debug\Temperaturos.csprojAssemblyReference.cache
+C:\Users\User\Documents\GitHub\C-Advance-2019-04-23\Temperaturos\Temperaturos\obj\Debug\Temperaturos.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\C-Advance-2019-04-23\Temperaturos\Temperaturos\obj\Debug\Temperaturos.exe
+C:\Users\User\Documents\GitHub\C-Advance-2019-04-23\Temperaturos\Temperaturos\obj\Debug\Temperaturos.pdb
