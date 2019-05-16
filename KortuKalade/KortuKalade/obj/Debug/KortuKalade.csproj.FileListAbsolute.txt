@@ -1,0 +1,7 @@
+C:\Users\User\Documents\GitHub\C-Advance-2019-04-23\KortuKalade\KortuKalade\bin\Debug\KortuKalade.exe.config
+C:\Users\User\Documents\GitHub\C-Advance-2019-04-23\KortuKalade\KortuKalade\bin\Debug\KortuKalade.exe
+C:\Users\User\Documents\GitHub\C-Advance-2019-04-23\KortuKalade\KortuKalade\bin\Debug\KortuKalade.pdb
+C:\Users\User\Documents\GitHub\C-Advance-2019-04-23\KortuKalade\KortuKalade\obj\Debug\KortuKalade.csprojAssemblyReference.cache
+C:\Users\User\Documents\GitHub\C-Advance-2019-04-23\KortuKalade\KortuKalade\obj\Debug\KortuKalade.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\C-Advance-2019-04-23\KortuKalade\KortuKalade\obj\Debug\KortuKalade.exe
+C:\Users\User\Documents\GitHub\C-Advance-2019-04-23\KortuKalade\KortuKalade\obj\Debug\KortuKalade.pdb

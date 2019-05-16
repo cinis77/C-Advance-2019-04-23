@@ -1,0 +1,10 @@
+C:\Users\User\Documents\GitHub\C-Advance-2019-04-23\TestuosimGVS\TestuosimGVS\bin\Debug\TestuosimGVS.exe.config
+C:\Users\User\Documents\GitHub\C-Advance-2019-04-23\TestuosimGVS\TestuosimGVS\bin\Debug\TestuosimGVS.exe
+C:\Users\User\Documents\GitHub\C-Advance-2019-04-23\TestuosimGVS\TestuosimGVS\bin\Debug\TestuosimGVS.pdb
+C:\Users\User\Documents\GitHub\C-Advance-2019-04-23\TestuosimGVS\TestuosimGVS\obj\Debug\TestuosimGVS.csprojAssemblyReference.cache
+C:\Users\User\Documents\GitHub\C-Advance-2019-04-23\TestuosimGVS\TestuosimGVS\obj\Debug\TestuosimGVS.Properties.Resources.resources
+C:\Users\User\Documents\GitHub\C-Advance-2019-04-23\TestuosimGVS\TestuosimGVS\obj\Debug\TestuosimGVS.csproj.GenerateResource.cache
+C:\Users\User\Documents\GitHub\C-Advance-2019-04-23\TestuosimGVS\TestuosimGVS\obj\Debug\TestuosimGVS.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\C-Advance-2019-04-23\TestuosimGVS\TestuosimGVS\obj\Debug\TestuosimGVS.exe
+C:\Users\User\Documents\GitHub\C-Advance-2019-04-23\TestuosimGVS\TestuosimGVS\obj\Debug\TestuosimGVS.pdb
+C:\Users\User\Documents\GitHub\C-Advance-2019-04-23\TestuosimGVS\TestuosimGVS\obj\Debug\TestuosimGVS.Pavadinimas.resources
