@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\Klientai\Klientai\bin\Debug\Klientai.exe.config
+C:\Users\User\source\repos\Klientai\Klientai\bin\Debug\Klientai.exe
+C:\Users\User\source\repos\Klientai\Klientai\bin\Debug\Klientai.pdb
+C:\Users\User\source\repos\Klientai\Klientai\obj\Debug\Klientai.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Klientai\Klientai\obj\Debug\Klientai.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Klientai\Klientai\obj\Debug\Klientai.exe
+C:\Users\User\source\repos\Klientai\Klientai\obj\Debug\Klientai.pdb

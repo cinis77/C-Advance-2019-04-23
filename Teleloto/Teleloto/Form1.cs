@@ -101,6 +101,12 @@ namespace Teleloto
                 G1, G2, G3, G4, G5,
                 Z1, Z2, Z3, Z4, Z5
             };
+            M1.Font = new Font("Arial Black", 14, FontStyle.Italic);
+            int[] vienas = new int[5];
+            int[] antras = new int[5];
+            var trecias = vienas.ToList();
+            trecias.AddRange(antras.ToList());
+            var ketvirtas = trecias.ToArray();
             foreach (var item in visiKamuoliukai)
             {
                 if (item.Text == kamuoliukas.ToString())
