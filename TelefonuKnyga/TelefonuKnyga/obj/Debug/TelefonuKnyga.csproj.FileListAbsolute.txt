@@ -1,0 +1,7 @@
+C:\Users\User\Documents\GitHub\C-Advance-2019-04-23\TelefonuKnyga\TelefonuKnyga\bin\Debug\TelefonuKnyga.exe.config
+C:\Users\User\Documents\GitHub\C-Advance-2019-04-23\TelefonuKnyga\TelefonuKnyga\bin\Debug\TelefonuKnyga.exe
+C:\Users\User\Documents\GitHub\C-Advance-2019-04-23\TelefonuKnyga\TelefonuKnyga\bin\Debug\TelefonuKnyga.pdb
+C:\Users\User\Documents\GitHub\C-Advance-2019-04-23\TelefonuKnyga\TelefonuKnyga\obj\Debug\TelefonuKnyga.csprojAssemblyReference.cache
+C:\Users\User\Documents\GitHub\C-Advance-2019-04-23\TelefonuKnyga\TelefonuKnyga\obj\Debug\TelefonuKnyga.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\C-Advance-2019-04-23\TelefonuKnyga\TelefonuKnyga\obj\Debug\TelefonuKnyga.exe
+C:\Users\User\Documents\GitHub\C-Advance-2019-04-23\TelefonuKnyga\TelefonuKnyga\obj\Debug\TelefonuKnyga.pdb
