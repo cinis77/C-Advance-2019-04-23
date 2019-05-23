@@ -1,0 +1,17 @@
+C:\Users\User\Documents\GitHub\C-Advance-2019-04-23\Interface\UnitTestPirkimoOperacija\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\User\Documents\GitHub\C-Advance-2019-04-23\Interface\UnitTestPirkimoOperacija\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\User\Documents\GitHub\C-Advance-2019-04-23\Interface\UnitTestPirkimoOperacija\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\User\Documents\GitHub\C-Advance-2019-04-23\Interface\UnitTestPirkimoOperacija\bin\Debug\UnitTestPirkimoOperacija.dll
+C:\Users\User\Documents\GitHub\C-Advance-2019-04-23\Interface\UnitTestPirkimoOperacija\bin\Debug\UnitTestPirkimoOperacija.pdb
+C:\Users\User\Documents\GitHub\C-Advance-2019-04-23\Interface\UnitTestPirkimoOperacija\bin\Debug\Interface.exe
+C:\Users\User\Documents\GitHub\C-Advance-2019-04-23\Interface\UnitTestPirkimoOperacija\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\User\Documents\GitHub\C-Advance-2019-04-23\Interface\UnitTestPirkimoOperacija\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\User\Documents\GitHub\C-Advance-2019-04-23\Interface\UnitTestPirkimoOperacija\bin\Debug\Interface.pdb
+C:\Users\User\Documents\GitHub\C-Advance-2019-04-23\Interface\UnitTestPirkimoOperacija\bin\Debug\Interface.exe.config
+C:\Users\User\Documents\GitHub\C-Advance-2019-04-23\Interface\UnitTestPirkimoOperacija\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\User\Documents\GitHub\C-Advance-2019-04-23\Interface\UnitTestPirkimoOperacija\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\User\Documents\GitHub\C-Advance-2019-04-23\Interface\UnitTestPirkimoOperacija\obj\Debug\UnitTestPirkimoOperacija.csprojAssemblyReference.cache
+C:\Users\User\Documents\GitHub\C-Advance-2019-04-23\Interface\UnitTestPirkimoOperacija\obj\Debug\UnitTestPirkimoOperacija.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\C-Advance-2019-04-23\Interface\UnitTestPirkimoOperacija\obj\Debug\UnitTestPirkimoOperacija.csproj.CopyComplete
+C:\Users\User\Documents\GitHub\C-Advance-2019-04-23\Interface\UnitTestPirkimoOperacija\obj\Debug\UnitTestPirkimoOperacija.dll
+C:\Users\User\Documents\GitHub\C-Advance-2019-04-23\Interface\UnitTestPirkimoOperacija\obj\Debug\UnitTestPirkimoOperacija.pdb
