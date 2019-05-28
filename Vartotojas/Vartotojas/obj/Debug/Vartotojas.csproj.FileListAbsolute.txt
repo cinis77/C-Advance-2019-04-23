@@ -9,3 +9,12 @@ C:\Users\User\Documents\GitHub\C-Advance-2019-04-23\Vartotojas\Vartotojas\obj\De
 C:\Users\User\Documents\GitHub\C-Advance-2019-04-23\Vartotojas\Vartotojas\obj\Debug\Vartotojas.exe
 C:\Users\User\Documents\GitHub\C-Advance-2019-04-23\Vartotojas\Vartotojas\obj\Debug\Vartotojas.pdb
 C:\Users\User\Documents\GitHub\C-Advance-2019-04-23\Vartotojas\Vartotojas\obj\Debug\Vartotojas.UserInfo.resources
+C:\Users\User\Documents\GitHub\C-Advance-2019-04-23\Vartotojas\Vartotojas\obj\Debug\Vartotojas.MainForm.resources
+C:\Users\User\Documents\GitHub\C-Advance-2019-04-23\Vartotojas\Vartotojas\bin\Debug\Infragistics4.Shared.v17.1.dll
+C:\Users\User\Documents\GitHub\C-Advance-2019-04-23\Vartotojas\Vartotojas\bin\Debug\Infragistics4.Win.UltraWinTabbedMdi.v17.1.dll
+C:\Users\User\Documents\GitHub\C-Advance-2019-04-23\Vartotojas\Vartotojas\bin\Debug\Infragistics4.Win.v17.1.dll
+C:\Users\User\Documents\GitHub\C-Advance-2019-04-23\Vartotojas\Vartotojas\bin\Debug\Infragistics4.Shared.v17.1.xml
+C:\Users\User\Documents\GitHub\C-Advance-2019-04-23\Vartotojas\Vartotojas\bin\Debug\Infragistics4.Win.UltraWinTabbedMdi.v17.1.xml
+C:\Users\User\Documents\GitHub\C-Advance-2019-04-23\Vartotojas\Vartotojas\bin\Debug\Infragistics4.Win.v17.1.xml
+C:\Users\User\Documents\GitHub\C-Advance-2019-04-23\Vartotojas\Vartotojas\obj\Debug\Vartotojas.exe.licenses
+C:\Users\User\Documents\GitHub\C-Advance-2019-04-23\Vartotojas\Vartotojas\obj\Debug\Vartotojas.csproj.CopyComplete

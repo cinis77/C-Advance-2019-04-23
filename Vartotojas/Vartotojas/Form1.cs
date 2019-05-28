@@ -13,10 +13,12 @@ namespace Vartotojas
     public partial class LogInPage : Form
     {
         private Dictionary<string, string> Users;
+        private Action<Form> LoadForm;
 
-        public LogInPage()
+        public LogInPage(Action<Form> formLoaderMethod)
         {
             InitializeComponent();
+            LoadForm = formLoaderMethod;
             Users = new Dictionary<string, string>();
             try
             {
@@ -75,8 +77,10 @@ namespace Vartotojas
                 }
                 if (Users[UserName.Text] == Password.Text)
                 {
-                    UserInfo form = new UserInfo(UserName.Text);
-                    form.Show();
+                    //UserInfo form = new UserInfo(UserName.Text);
+                    //form.Show();
+                    LoadForm(new UserInfo(UserName.Text));
+                    Close();
                 }
                 else
                 {

@@ -14,6 +14,8 @@ namespace Vartotojas
     {
         private Action ReinicializeDictionaryCallBack; // Action => void Method();
         private Action<string, int> Action; // Action<string,int> => void Method(string a, int b);
+        private Func<int> IntergerMethod; // Func<int> => int Method();
+        private Func<int, string> StringMethod; // Func<int, string> => string Method(int)
 
         public UserInfo(Action reinicializeDictiomaryCallBack)
         {

@@ -39,6 +39,7 @@
             // 
             // UserName
             // 
+            this.UserName.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.UserName.Location = new System.Drawing.Point(143, 32);
             this.UserName.Name = "UserName";
             this.UserName.Size = new System.Drawing.Size(220, 29);
@@ -46,6 +47,7 @@
             // 
             // Password
             // 
+            this.Password.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.Password.Location = new System.Drawing.Point(143, 85);
             this.Password.Name = "Password";
             this.Password.PasswordChar = '*';
@@ -54,6 +56,7 @@
             // 
             // label1
             // 
+            this.label1.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.label1.AutoSize = true;
             this.label1.Location = new System.Drawing.Point(28, 32);
             this.label1.Name = "label1";
@@ -63,6 +66,7 @@
             // 
             // label2
             // 
+            this.label2.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.label2.AutoSize = true;
             this.label2.Location = new System.Drawing.Point(33, 85);
             this.label2.Name = "label2";
@@ -72,6 +76,7 @@
             // 
             // SingUpB
             // 
+            this.SingUpB.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.SingUpB.Location = new System.Drawing.Point(232, 153);
             this.SingUpB.Name = "SingUpB";
             this.SingUpB.Size = new System.Drawing.Size(173, 54);
@@ -82,6 +87,7 @@
             // 
             // LogInB
             // 
+            this.LogInB.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.LogInB.Location = new System.Drawing.Point(33, 153);
             this.LogInB.Name = "LogInB";
             this.LogInB.Size = new System.Drawing.Size(169, 53);
@@ -92,6 +98,7 @@
             // 
             // ExitB
             // 
+            this.ExitB.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.ExitB.Location = new System.Drawing.Point(143, 242);
             this.ExitB.Name = "ExitB";
             this.ExitB.Size = new System.Drawing.Size(204, 69);
