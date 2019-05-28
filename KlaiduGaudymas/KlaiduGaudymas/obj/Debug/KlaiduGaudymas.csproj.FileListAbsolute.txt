@@ -1,0 +1,7 @@
+C:\Users\User\Documents\GitHub\C-Advance-2019-04-23\KlaiduGaudymas\KlaiduGaudymas\bin\Debug\KlaiduGaudymas.exe.config
+C:\Users\User\Documents\GitHub\C-Advance-2019-04-23\KlaiduGaudymas\KlaiduGaudymas\bin\Debug\KlaiduGaudymas.exe
+C:\Users\User\Documents\GitHub\C-Advance-2019-04-23\KlaiduGaudymas\KlaiduGaudymas\bin\Debug\KlaiduGaudymas.pdb
+C:\Users\User\Documents\GitHub\C-Advance-2019-04-23\KlaiduGaudymas\KlaiduGaudymas\obj\Debug\KlaiduGaudymas.csprojAssemblyReference.cache
+C:\Users\User\Documents\GitHub\C-Advance-2019-04-23\KlaiduGaudymas\KlaiduGaudymas\obj\Debug\KlaiduGaudymas.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\C-Advance-2019-04-23\KlaiduGaudymas\KlaiduGaudymas\obj\Debug\KlaiduGaudymas.exe
+C:\Users\User\Documents\GitHub\C-Advance-2019-04-23\KlaiduGaudymas\KlaiduGaudymas\obj\Debug\KlaiduGaudymas.pdb

@@ -1,0 +1,11 @@
+C:\Users\User\Documents\GitHub\C-Advance-2019-04-23\Vartotojas\Vartotojas\bin\Debug\Vartotojas.exe.config
+C:\Users\User\Documents\GitHub\C-Advance-2019-04-23\Vartotojas\Vartotojas\bin\Debug\Vartotojas.exe
+C:\Users\User\Documents\GitHub\C-Advance-2019-04-23\Vartotojas\Vartotojas\bin\Debug\Vartotojas.pdb
+C:\Users\User\Documents\GitHub\C-Advance-2019-04-23\Vartotojas\Vartotojas\obj\Debug\Vartotojas.csprojAssemblyReference.cache
+C:\Users\User\Documents\GitHub\C-Advance-2019-04-23\Vartotojas\Vartotojas\obj\Debug\Vartotojas.LogInPage.resources
+C:\Users\User\Documents\GitHub\C-Advance-2019-04-23\Vartotojas\Vartotojas\obj\Debug\Vartotojas.Properties.Resources.resources
+C:\Users\User\Documents\GitHub\C-Advance-2019-04-23\Vartotojas\Vartotojas\obj\Debug\Vartotojas.csproj.GenerateResource.cache
+C:\Users\User\Documents\GitHub\C-Advance-2019-04-23\Vartotojas\Vartotojas\obj\Debug\Vartotojas.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\C-Advance-2019-04-23\Vartotojas\Vartotojas\obj\Debug\Vartotojas.exe
+C:\Users\User\Documents\GitHub\C-Advance-2019-04-23\Vartotojas\Vartotojas\obj\Debug\Vartotojas.pdb
+C:\Users\User\Documents\GitHub\C-Advance-2019-04-23\Vartotojas\Vartotojas\obj\Debug\Vartotojas.UserInfo.resources
