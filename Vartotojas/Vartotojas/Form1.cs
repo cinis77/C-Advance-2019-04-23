@@ -94,9 +94,30 @@ namespace Vartotojas
 
         private void SingUpB_Click(object sender, EventArgs e)
         {
-            UserInfo form = new UserInfo();
+            UserInfo form = new UserInfo(ReinicializeDictionary);
             form.Show();
             this.WindowState = FormWindowState.Minimized;
+        }
+
+        private void ReinicializeDictionary()
+        {
+            Users.Clear();
+            try
+            {
+                using (System.IO.StreamReader reader = new System.IO.StreamReader("logIn.txt"))
+                {
+                    string line = null;
+                    while ((line = reader.ReadLine()) != null)
+                    {
+                        var data = line.Split(' ');
+                        Users.Add(data[0], data[1]);
+                    }
+                }
+            }
+            catch (Exception)
+            {
+                MessageBox.Show("Problema nuskaitinėjant failą");
+            }
         }
     }
 }

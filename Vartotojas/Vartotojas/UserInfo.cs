@@ -12,16 +12,19 @@ namespace Vartotojas
 {
     public partial class UserInfo : Form
     {
-        public UserInfo()
+        private Action ReinicializeDictionaryCallBack; // Action => void Method();
+        private Action<string, int> Action; // Action<string,int> => void Method(string a, int b);
+
+        public UserInfo(Action reinicializeDictiomaryCallBack)
         {
             InitializeComponent();
+            ReinicializeDictionaryCallBack = reinicializeDictiomaryCallBack;
         }
 
         private void RegisterB_Click(object sender, EventArgs e)
         {
             using (System.IO.StreamWriter writer = new System.IO.StreamWriter("logIn.txt", true))
             {
-                writer.WriteLine();
                 writer.WriteLine(userNameText.Text + " " + PasswordText.Text);
                 writer.Flush();
             }
@@ -31,6 +34,9 @@ namespace Vartotojas
                 writer.WriteLine(VardasText.Text + "|" + PavardeText.Text + "|" + AboutText.Text);
                 writer.Flush();
             }
+
+            Close();
+            ReinicializeDictionaryCallBack();
         }
     }
 }
