@@ -75,7 +75,8 @@ namespace Vartotojas
                 }
                 if (Users[UserName.Text] == Password.Text)
                 {
-                    MessageBox.Show("Duomenys Sutapo");
+                    UserInfo form = new UserInfo(UserName.Text);
+                    form.Show();
                 }
                 else
                 {
